@@ -1,3 +1,3 @@
 # bby-moon
 
-FUCK BBY AND MOON EAT MY SHIT
+this was just some simple deobfuscation on some known token loggers
